@@ -94,7 +94,7 @@ public class Vehicle {
 		this.drivetrain = drivetrain;
 	}
 
-	public int getDealerId() {
+	public Integer getDealerId() {
 		return dealerId;
 	}
 
