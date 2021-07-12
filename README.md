@@ -16,7 +16,8 @@
   * Mileage
   * Image of the Vehicle
 * The Dealership ID is meant to be connected with a Join Table
-  * The Join table would connect with a Table of Dealership Names so that the User may see this and go to that specific Dealership's own Website
+  * The Join table would connect with a Table of Dealership Names
+  * This would additionally allow Dealership specific information like Website URL and Contact Information to be added 
 
 ## Site Navigation
 
